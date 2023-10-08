@@ -17,3 +17,5 @@ redirect_from:
 👩‍💻I aspire to become an AI scientist, solving problems that truly matter and have the potential to be converted into business! 
 
 🤝A huge believer in collaborative research work. Do contact me at 📧gayathri.rangu@iitg.ac.in for any collaborative work.
+
+🚧: THIS SITE IS UNDER CONSTRUCTION 🚧
