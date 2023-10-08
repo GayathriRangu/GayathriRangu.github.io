@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "India"
+title                    : "Gayathri's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gayathri Rangu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://GayathriRangu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://GayathriRangu.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "GayathriRangu/GayathriRangu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gayathri Rangu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Ph.D Student, Robotics Lab., Department of Computer Science and Engg., Indian Institute of Technology Guwahati"
+  location         : "Guwahati, India"
+  employer         : "https://www.iitg.ac.in/cse/student-pages/gayathri.rangu"
+  pubmed           : 
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "gayathri.rangu@iitg.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/GayathriRangu"
   google_plus      :
   keybase          :
-  instagram        :
+  Instagram        : "https://www.instagram.com/im_gaaya/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  LinkedIn         : "https://in.linkedin.com/in/gayathrirangu"
+  orcid            : "https://orcid.org/0009-0001-3237-3878"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/GayathriRangu"
   vine             :
   weibo            :
   xing             :
