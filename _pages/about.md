@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👩‍🎓I am a 3rd-year Ph.D. student at IIT Guwahati, India 🇮🇳:.
+👩‍🎓I am a 3rd-year Ph.D. student at IIT Guwahati, India 🇮🇳.
 
 🤖My research interests are in Deep Reinforcement Learning, Robotics, Federated Learning, Neural Networks, and basically anything and everything about AI!
 
