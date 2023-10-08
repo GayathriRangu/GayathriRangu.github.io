@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D Student, Robotics Lab., Department of Computer Science and Engg., Indian Institute of Technology Guwahati"
   location         : "Guwahati, India"
-  employer         : "https://www.iitg.ac.in/cse/student-pages/gayathri.rangu"
+  employer         : #""
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "gayathri.rangu@iitg.ac.in"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/GayathriRangu"
+  github           : "GayathriRangu"
   google_plus      :
   keybase          :
-  Instagram        : "https://www.instagram.com/im_gaaya/"
+  Instagram        : "im_gaaya"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://in.linkedin.com/in/gayathrirangu"
-  orcid            : "https://orcid.org/0009-0001-3237-3878"
+  LinkedIn         : "gayathrirangu"
+  orcid            : "0009-0001-3237-3878"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/GayathriRangu"
+  twitter          : "GayathriRangu"
   vine             :
   weibo            :
   xing             :
