@@ -19,6 +19,11 @@ background_image: hero-robotics-dark.jpg
     <time>2026</time>
     <h3>ICAART 2026 paper presentation and Spain trip</h3>
     <p>I will present "Last Skills Standing: Adaptive Skill Discovery in Unsupervised Reinforcement Learning" at ICAART 2026 in Marbella, Spain.</p>
+    <div class="mini-gallery">
+      <img src="/images/showcase/icaart-stage.jpg" alt="ICAART 2026 conference stage">
+      <img src="/images/showcase/icaart-sagrada.jpg" alt="Spain travel moment near Sagrada Familia">
+      <img src="/images/showcase/icaart-flamenco.jpg" alt="Flamenco performance during Spain trip">
+    </div>
   </article>
   <article>
     <time>2026</time>
@@ -34,6 +39,9 @@ background_image: hero-robotics-dark.jpg
     <time>2026</time>
     <h3>Devil's Circuit, Guwahati</h3>
     <p>Participated in Devil's Circuit 2026 in Guwahati.</p>
+    <div class="mini-gallery mini-gallery--single">
+      <img src="/images/showcase/devils-circuit.jpg" alt="Devil's Circuit 2026 participation">
+    </div>
   </article>
 </div>
 
@@ -54,11 +62,19 @@ background_image: hero-robotics-dark.jpg
     <time>2025</time>
     <h3>VLSID 2025 organizing committee host</h3>
     <p>Served as a host and organizing committee member for VLSID 2025 in Bangalore.</p>
+    <div class="mini-gallery">
+      <img src="/images/showcase/vlsid-host.jpg" alt="Hosting at VLSID 2025">
+      <img src="/images/showcase/vlsid-team.jpg" alt="VLSID 2025 organizing team moment">
+      <img src="/images/showcase/vlsid-certificate.jpg" alt="VLSID 2025 appreciation certificate">
+    </div>
   </article>
   <article>
     <time>24 Aug 2025</time>
     <h3>Half marathon</h3>
     <p>Completed a half marathon on 24 August 2025.</p>
+    <div class="mini-gallery mini-gallery--single">
+      <img src="/images/showcase/run-event.jpg" alt="Running event photo">
+    </div>
   </article>
 </div>
 
@@ -69,11 +85,20 @@ background_image: hero-robotics-dark.jpg
     <time>2024-2025</time>
     <h3>Chairperson, IEEE Student Branch, Guwahati Subsection</h3>
     <p>Served as Chairperson of the IEEE Student Branch, Guwahati Subsection for 2024-2025.</p>
+    <div class="mini-gallery">
+      <img src="/images/showcase/ieee-guest-honor.jpg" alt="IEEE guest of honor moment">
+      <img src="/images/showcase/ieee-qt3.jpg" alt="IEEE QT3 event">
+    </div>
   </article>
   <article>
     <time>2024</time>
     <h3>GECCO 2024</h3>
     <p>Presented research on immuno-inspired selective aggregation for decentralized federated deep reinforcement learning at GECCO 2024.</p>
+    <div class="mini-gallery">
+      <img src="/images/showcase/gecco-paper.jpg" alt="GECCO 2024 paper presentation">
+      <img src="/images/showcase/gecco-australia.jpg" alt="Australia travel during GECCO 2024">
+      <img src="/images/showcase/gecco-summer-school.jpg" alt="GECCO summer school group moment">
+    </div>
   </article>
   <article>
     <time>2024</time>

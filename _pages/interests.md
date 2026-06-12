@@ -15,6 +15,7 @@ background_image: bg-interests-trails-books.jpg
 
 <section class="interest-grid">
   <article>
+    <img class="card-photo" src="/images/showcase/run-event.jpg" alt="Running event photo">
     <span>Running</span>
     <h2>Endurance and obstacle challenges</h2>
     <ul>
@@ -26,6 +27,7 @@ background_image: bg-interests-trails-books.jpg
   </article>
 
   <article>
+    <img class="card-photo" src="/images/showcase/trek-rootbridge.jpg" alt="Nature trail and root bridge">
     <span>Mountains</span>
     <h2>Sandakphu Himalayan Trek</h2>
     <ul>
@@ -36,12 +38,14 @@ background_image: bg-interests-trails-books.jpg
   </article>
 
   <article>
+    <img class="card-photo" src="/images/showcase/garden-butterfly.jpg" alt="Butterfly in nature">
     <span>Garden</span>
     <h2>Plants and slow attention</h2>
     <p>Gardening is one of my favorite slow hobbies. I enjoy growing and caring for plants, and I like how much patience and attention it teaches.</p>
   </article>
 
   <article>
+    <img class="card-photo" src="/images/showcase/reading-spain.jpg" alt="Reading during travel">
     <span>Books</span>
     <h2>Non-academic reading shelf</h2>
     <p>I am building this as a shelf for books I read for curiosity, perspective, storytelling, and life outside research.</p>

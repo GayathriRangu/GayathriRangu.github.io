@@ -9,6 +9,30 @@ background_image: bg-ai-robotics-subtle.jpg
 
 {% include base_path %}
 
+<section>
+  <div class="section-heading-row">
+    <div>
+      <p class="section-label">Classroom and Lab</p>
+      <h2>Teaching moments</h2>
+    </div>
+  </div>
+
+  <div class="photo-strip">
+    <figure>
+      <img src="/images/showcase/teaching-session.jpg" alt="Teaching session presentation">
+      <figcaption>Course sessions</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/showcase/teaching-board.jpg" alt="Classroom tutorial session">
+      <figcaption>Tutorials</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/showcase/teaching-lab.jpg" alt="Robotics lab students and mentors">
+      <figcaption>Robotics Lab</figcaption>
+    </figure>
+  </div>
+</section>
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}

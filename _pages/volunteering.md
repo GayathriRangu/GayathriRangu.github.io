@@ -9,6 +9,21 @@ background_image: bg-ai-robotics-subtle.jpg
 
 ## Academic Service
 
+<div class="photo-strip">
+  <figure>
+    <img src="/images/showcase/vlsid-host.jpg" alt="VLSID 2025 hosting moment">
+    <figcaption>VLSID 2025</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/showcase/ieee-guest-honor.jpg" alt="IEEE guest of honor moment">
+    <figcaption>IEEE QT3</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/showcase/vlsid-team.jpg" alt="Conference organizing team moment">
+    <figcaption>Organizing</figcaption>
+  </figure>
+</div>
+
 * **External Reviewer**, ACM/IEEE HRI 2026.
 * **Organizing Team**, VLSID 2025, Bangalore.
 * **Moderator and Core Volunteer**, IEEE GCON23.

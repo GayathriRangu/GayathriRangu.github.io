@@ -79,6 +79,35 @@ redirect_from:
   </div>
 </section>
 
+<section>
+  <div class="section-heading-row">
+    <div>
+      <p class="section-label">Moments</p>
+      <h2>Research life in frames</h2>
+    </div>
+    <a class="text-link" href="/news/">More updates</a>
+  </div>
+
+  <div class="photo-strip">
+    <figure>
+      <img src="/images/showcase/home-icaart.jpg" alt="ICAART 2026 conference moment">
+      <figcaption>ICAART 2026</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/showcase/home-gecco.jpg" alt="GECCO conference paper presentation">
+      <figcaption>GECCO 2024</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/showcase/home-vlsid.jpg" alt="VLSID organizing and hosting moment">
+      <figcaption>VLSID 2025</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/showcase/home-lab.jpg" alt="Robotics lab students and collaborators">
+      <figcaption>Robotics Lab</figcaption>
+    </figure>
+  </div>
+</section>
+
 <section class="split-note">
   <div>
     <p class="section-label">Building</p>
