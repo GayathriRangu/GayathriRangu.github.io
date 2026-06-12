@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 page_theme: cv
-background_image: paragraph-no-indent.png
+background_image: bg-ai-robotics-subtle.jpg
 redirect_from:
   - /resume
 ---

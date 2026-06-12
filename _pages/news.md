@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 page_theme: news
-background_image: editing-talk.png
+background_image: hero-robotics-dark.jpg
 ---
 
 ## 2026
@@ -23,7 +23,7 @@ background_image: editing-talk.png
   <article>
     <time>2026</time>
     <h3>Building Gaaya Labs on Instagram</h3>
-    <p>I am building Gaaya Labs as an Instagram-first space for AI, robotics, learning experiments, and project notes.</p>
+    <p>I am building Gaaya Labs as an Instagram-first space for AI, robotics, learning experiments, and project notes: <a href="https://www.instagram.com/gaaya.labs/">@gaaya.labs</a>.</p>
   </article>
   <article>
     <time>2026</time>

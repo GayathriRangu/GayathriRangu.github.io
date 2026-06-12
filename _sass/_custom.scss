@@ -39,7 +39,7 @@
     var(--page-bg-image);
   background-position: center;
   background-size: cover;
-  opacity: .72;
+  opacity: .95;
   pointer-events: none;
 }
 
@@ -60,10 +60,17 @@
   grid-template-columns: minmax(0, 1.4fr) minmax(220px, .65fr);
   gap: 1.25rem;
   align-items: center;
-  margin: 0 0 2rem;
-  padding: 2rem 0 2.25rem;
-  border-bottom: 1px solid #d9e6e7;
-  background: linear-gradient(180deg, #f8fbfb 0%, #ffffff 82%);
+  min-height: 500px;
+  margin: -1rem -1rem 2rem;
+  padding: 3rem 2rem 3.25rem;
+  border: 1px solid rgba(217, 230, 231, .85);
+  border-radius: 12px;
+  background:
+    linear-gradient(90deg, rgba(255, 255, 255, .96) 0%, rgba(255, 255, 255, .86) 42%, rgba(255, 255, 255, .22) 100%),
+    var(--page-bg-image);
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 24px 60px rgba(36, 51, 63, .12);
 }
 
 .profile-kicker {
@@ -80,8 +87,8 @@
   margin-bottom: .75rem;
   max-width: 820px;
   color: #24333f;
-  font-size: 2.1em;
-  line-height: 1.15;
+  font-size: 2.45em;
+  line-height: 1.08;
 }
 
 .profile-lede {
@@ -98,7 +105,7 @@
 }
 
 .profile-hero__visual {
-  min-height: 230px;
+  min-height: 320px;
   position: relative;
 }
 
@@ -133,12 +140,12 @@
 }
 
 .visual-card:not(.visual-card--main):nth-child(2) {
-  top: 126px;
+  top: 150px;
   right: 92px;
 }
 
 .visual-card:not(.visual-card--main):nth-child(3) {
-  top: 170px;
+  top: 210px;
   right: 0;
 }
 
@@ -152,7 +159,7 @@
 .page {
   padding: 1rem;
   border-radius: 10px;
-  background: rgba(255, 255, 255, .86);
+  background: rgba(255, 255, 255, .9);
   box-shadow: 0 20px 50px rgba(36, 51, 63, .06);
   backdrop-filter: blur(3px);
 }
@@ -304,7 +311,20 @@
   }
 
   .profile-hero__visual {
-    min-height: 185px;
+    min-height: 235px;
+  }
+
+  .profile-hero {
+    min-height: auto;
+    margin: -1rem -1rem 1.5rem;
+    padding: 2rem 1.25rem;
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, .97) 0%, rgba(255, 255, 255, .86) 58%, rgba(255, 255, 255, .3) 100%),
+      var(--page-bg-image);
+  }
+
+  .profile-hero h1 {
+    font-size: 2em;
   }
 
   .section-heading-row,

@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 page_theme: publications
-background_image: paragraph-indent.png
+background_image: bg-ai-robotics-subtle.jpg
 ---
 
 {% if author.googlescholar %}

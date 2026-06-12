@@ -4,7 +4,7 @@ title: "Outside Work"
 permalink: /interests/
 author_profile: true
 page_theme: interests
-background_image: image-alignment-580x300.jpg
+background_image: bg-interests-trails-books.jpg
 ---
 
 <section class="interest-hero">

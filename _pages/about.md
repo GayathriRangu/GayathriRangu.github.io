@@ -4,7 +4,7 @@ title: "Gayathri Rangu"
 excerpt: "Ph.D. researcher in federated reinforcement learning, robotic intelligence, and embodied AI."
 author_profile: true
 page_theme: research
-background_image: image-alignment-1200x4002.jpg
+background_image: hero-robotics-frl.jpg
 redirect_from:
   - /about/
   - /about.html
@@ -13,8 +13,8 @@ redirect_from:
 <section class="profile-hero">
   <div class="profile-hero__copy">
     <p class="profile-kicker">Ph.D. Candidate, Computer Science and Engineering, IIT Guwahati</p>
-    <h1>Building collaborative learning systems for networked robots.</h1>
-    <p class="profile-lede">I work on federated reinforcement learning, multi-robot systems, embodied AI, and LLM-assisted robotics. My research focuses on scalable learning frameworks that help distributed robotic systems share experience, adapt across environments, and move from simulation toward real deployment.</p>
+    <h1>Robots that learn together, adapt better, and share intelligence</h1>
+    <p class="profile-lede">I work on federated reinforcement learning, multi-robot systems, embodied AI, and LLM-assisted robotics. My research focuses on scalable learning frameworks that help distributed robotic systems share experience, discover useful skills, and move from simulation toward real deployment.</p>
     <div class="profile-actions">
       <a class="btn btn--primary" href="/cv/">View CV</a>
       <a class="btn" href="/publications/">Publications</a>
@@ -24,7 +24,7 @@ redirect_from:
   </div>
   <div class="profile-hero__visual" aria-hidden="true">
     <div class="visual-card visual-card--main">FRL</div>
-    <div class="visual-card">Robotics</div>
+    <div class="visual-card">Selective Aggregation</div>
     <div class="visual-card">Skill Discovery</div>
   </div>
 </section>

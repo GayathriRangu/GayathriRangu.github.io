@@ -4,7 +4,7 @@ title: "Service and Leadership"
 permalink: /volunteering/
 author_profile: true
 page_theme: service
-background_image: image-alignment-1200x4002.jpg
+background_image: bg-ai-robotics-subtle.jpg
 ---
 
 ## Academic Service
