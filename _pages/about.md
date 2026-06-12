@@ -20,32 +20,64 @@ redirect_from:
   </div>
 </section>
 
-## Research Focus
+<section class="feature-band">
+  <div>
+    <p class="section-label">Research Focus</p>
+    <h2>Federated reinforcement learning for multi-robot systems</h2>
+    <p>My Ph.D. is on <strong>Federated Reinforcement Learning for Multi-Robot Systems: Enhancing Selective Aggregation, Experience Replay & Skill Discovery</strong>.</p>
+    <p>The central idea is to help robotic agents learn efficiently together while preserving the strengths of decentralized learning, selective aggregation, prioritized experience replay, and adaptive skill discovery.</p>
+  </div>
+  <ul class="pill-grid">
+    <li>Federated RL</li>
+    <li>Multi-robot systems</li>
+    <li>Skill discovery</li>
+    <li>Experience replay</li>
+    <li>Sim-to-real transfer</li>
+    <li>LLM-assisted robotics</li>
+  </ul>
+</section>
 
-My Ph.D. is on **Federated Reinforcement Learning for Multi-Robot Systems: Enhancing Selective Aggregation, Experience Replay & Skill Discovery**. The central idea is to make robotic agents learn efficiently together while preserving the strengths of decentralized learning, selective aggregation, prioritized experience replay, and adaptive skill discovery.
+<section>
+  <div class="section-heading-row">
+    <div>
+      <p class="section-label">Recent Updates</p>
+      <h2>What I am up to</h2>
+    </div>
+    <a class="text-link" href="/news/">All news</a>
+  </div>
 
-I am especially interested in:
+  <div class="news-grid">
+    <article>
+      <span>2026</span>
+      <h3>Publicity Co-Chair, INDOML 2026</h3>
+      <p>Chosen as Publicity Co-Chair for INDOML 2026.</p>
+    </article>
+    <article>
+      <span>2026</span>
+      <h3>ICAART 2026 in Spain</h3>
+      <p>Presenting adaptive skill discovery work at ICAART 2026 in Marbella, Spain.</p>
+    </article>
+    <article>
+      <span>2025</span>
+      <h3>VLSID 2025 host</h3>
+      <p>Served as host and organizing committee member for VLSID 2025 in Bangalore.</p>
+    </article>
+    <article>
+      <span>2024-2025</span>
+      <h3>IEEE student leadership</h3>
+      <p>Served as Chairperson of the IEEE Student Branch, Guwahati Subsection.</p>
+    </article>
+  </div>
+</section>
 
-* Federated reinforcement learning for multi-robot systems
-* Decentralized swarm learning and multi-agent systems
-* Unsupervised skill discovery and adaptive robot behavior
-* Sim-to-real transfer for robotic learning
-* LLM-assisted robotics and autonomous AI systems
-
-## Recent Updates
-
-* Selected as **Publicity Co-Chair for INDOML 2026**.
-* Presenting **Last Skills Standing: Adaptive Skill Discovery in Unsupervised Reinforcement Learning** at **ICAART 2026** in Marbella, Spain.
-* Served as **Chairperson, IEEE Student Branch, Guwahati Subsection** for 2024-2025.
-* Hosted and contributed as part of the **VLSID 2025 organizing committee**.
-
-[Read all news updates](/news/)
-
-## Gaaya Labs
-
-I am building **Gaaya Labs** as a space for AI, robotics, learning systems, and practical experiments that grow beyond individual research papers. The page is still taking shape, and I am using it to collect projects, demos, notes, and future collaborations.
-
-[Visit Gaaya Labs](/gaaya-labs/)
+<section class="split-note">
+  <div>
+    <p class="section-label">Building</p>
+    <h2>Gaaya Labs</h2>
+    <p>I am building <strong>Gaaya Labs</strong> as an Instagram-first space for AI, robotics, learning experiments, and behind-the-scenes notes from projects I care about.</p>
+  </div>
+  <a class="btn" href="https://www.instagram.com/im_gaaya/">Follow on Instagram</a>
+</section>
 
 ## Collaboration
 

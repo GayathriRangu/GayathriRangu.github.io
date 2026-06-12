@@ -5,35 +5,52 @@ permalink: /interests/
 author_profile: true
 ---
 
-Research is a big part of my life, but not the whole of it. Outside work, I enjoy running, obstacle challenges, trekking, gardening, and reading non-academic books.
+<section class="interest-hero">
+  <p class="section-label">Outside Work</p>
+  <h1>Running trails, growing plants, and reading for the joy of it.</h1>
+  <p>Research is a big part of my life, but not the whole of it. Outside work, I enjoy running, obstacle challenges, Himalayan treks, gardening, and non-academic reading.</p>
+</section>
 
-## Running and Fitness
+<section class="interest-grid">
+  <article>
+    <span>Running</span>
+    <h2>Endurance and obstacle challenges</h2>
+    <ul>
+      <li>Completed a <strong>half marathon on 24 August 2025</strong>.</li>
+      <li>Participated in <strong>Devil's Circuit 2026</strong> in Guwahati.</li>
+      <li>Participated in the <strong>Air Force Sekhon Marathon 2026</strong>.</li>
+    </ul>
+    <p>I enjoy endurance sports because they make discipline, patience, and progress feel very tangible.</p>
+  </article>
 
-* Completed a **half marathon on 24 August 2025**.
-* Participated in **Devil's Circuit 2026** in Guwahati.
-* Participated in the **Air Force Sekhon Marathon 2026**.
-* I enjoy endurance sports because they make discipline, patience, and progress feel very tangible.
+  <article>
+    <span>Mountains</span>
+    <h2>Sandakphu Himalayan Trek</h2>
+    <ul>
+      <li>Completed the <strong>Sandakphu Himalayan Trek</strong> in December 2023.</li>
+      <li>Returned for the <strong>Sandakphu Himalayan Trek</strong> again in December 2024.</li>
+    </ul>
+    <p>I love long trails, cold mornings, mountain light, and the quiet reset that trekking brings.</p>
+  </article>
 
-## Trekking
+  <article>
+    <span>Garden</span>
+    <h2>Plants and slow attention</h2>
+    <p>Gardening is one of my favorite slow hobbies. I enjoy growing and caring for plants, and I like how much patience and attention it teaches.</p>
+  </article>
 
-* Completed the **Sandakphu Himalayan Trek** in December 2023.
-* Returned for the **Sandakphu Himalayan Trek** again in December 2024.
-* I love long trails, cold mornings, mountain light, and the quiet reset that trekking brings.
+  <article>
+    <span>Books</span>
+    <h2>Non-academic reading shelf</h2>
+    <p>I am building this as a shelf for books I read for curiosity, perspective, storytelling, and life outside research.</p>
+    <ul>
+      <li>Fiction and literary fiction</li>
+      <li>Biographies and memoirs</li>
+      <li>Psychology and personal growth</li>
+      <li>Travel and nature writing</li>
+      <li>Popular science for general readers</li>
+    </ul>
+  </article>
+</section>
 
-## Gardening
-
-Gardening is one of my favorite slow hobbies. I enjoy growing and caring for plants, and I like how much patience and attention it teaches.
-
-## Reading List
-
-I am building this as a non-academic reading shelf: books I read for curiosity, perspective, storytelling, and life outside research.
-
-Current categories I want to keep updating:
-
-* Fiction and literary fiction
-* Biographies and memoirs
-* Psychology and personal growth
-* Travel and nature writing
-* Popular science written for general readers
-
-Specific book notes coming soon.
+<p class="cv-note">I will keep updating this page with specific race notes, trek memories, plant experiments, and book notes.</p>
