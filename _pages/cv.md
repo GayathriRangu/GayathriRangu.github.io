@@ -27,6 +27,8 @@ redirect_from:
 
 ## Research
 
+My Ph.D. is on **Federated Reinforcement Learning for Multi-Robot Systems: Enhancing Selective Aggregation, Experience Replay & Skill Discovery**.
+
 I specialize in **Federated Reinforcement Learning (FRL)**, **multi-robot systems**, and **embodied AI**. My work develops scalable learning frameworks for distributed robotic systems, including selective aggregation, prioritized experience replay, decentralized swarm learning, unsupervised skill discovery, and sim-to-real transfer.
 
 I also work on deep reinforcement learning pipelines across simulation and real robotic platforms, with broader interests in LLM-assisted robotics, autonomous AI systems, and web-based AI tools.
