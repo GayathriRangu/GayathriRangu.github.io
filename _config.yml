@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "India"
-title                    : "Gayathri's Homepage"
+title                    : "Gayathri Rangu"
 title_separator          : "-"
 name                     : &name "Gayathri Rangu"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Candidate in Computer Science and Engineering at IIT Guwahati"
 URL                      : "https://GayathriRangu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"https://GayathriRangu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "GayathriRangu/GayathriRangu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gayathri Rangu"
   avatar           : "WhatsApp Image 2023-03-06 at 4.00.02 PM.jpeg"
-  bio              : "Ph.D Student, Robotics Lab., Department of Computer Science and Engg."
+  bio              : "Ph.D. Candidate, Robotics Lab, Department of Computer Science and Engineering"
   location         : "Guwahati, India"
   employer         : "Indian Institute of Technology Guwahati"
   pubmed           : 
@@ -123,6 +123,12 @@ include:
   - _pages
   - files
 exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -255,7 +261,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

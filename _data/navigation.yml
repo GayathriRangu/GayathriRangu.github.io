@@ -1,34 +1,25 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
   - title: "CV"
-    url: /files/Resume.pdf
-    
-  - title: "Portfolio"
-    url: /portfolio/
-    
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Volunteering"
-    url: /volunteering/    
-
-  - title: "Personal Projects"
-    url: /personalprojects/
-  
 
   - title: "News"
-    url: /news/    
-    
+    url: /news/
 
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Service"
+    url: /volunteering/
+
+  - title: "Resume PDF"
+    url: /files/Resume.pdf

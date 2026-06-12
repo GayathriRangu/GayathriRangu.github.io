@@ -1,0 +1,74 @@
+.profile-hero {
+  margin: 0 0 2rem;
+  padding: 1.5rem 0 1.75rem;
+  border-bottom: 1px solid mix(#ffffff, #2f6f73, 72%);
+}
+
+.profile-kicker {
+  margin: 0 0 .35rem;
+  color: #2f6f73;
+  font-size: .78em;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.profile-hero h1 {
+  margin-top: 0;
+  margin-bottom: .75rem;
+  max-width: 820px;
+  color: #24333f;
+  font-size: 1.95em;
+  line-height: 1.15;
+}
+
+.profile-lede {
+  max-width: 820px;
+  color: #405261;
+  font-size: 1.05em;
+}
+
+.profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: 1rem;
+}
+
+.page__content h2 {
+  padding-bottom: .25rem;
+  border-bottom: 1px solid #e5edf0;
+  color: #24333f;
+}
+
+.archive__item-title {
+  margin-top: .25rem;
+}
+
+.page__content strong {
+  color: #24333f;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin: .75rem 0 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.tag-list li {
+  padding: .25rem .55rem;
+  border: 1px solid #d6e3e5;
+  border-radius: 999px;
+  color: #2f6f73;
+  font-size: .72em;
+  font-weight: 700;
+}
+
+.cv-note {
+  padding: .85rem 1rem;
+  border-left: .25rem solid #2f6f73;
+  background: #f4f8f8;
+}
