@@ -3,6 +3,8 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
+page_theme: news
+background_image: editing-talk.png
 ---
 
 ## 2026

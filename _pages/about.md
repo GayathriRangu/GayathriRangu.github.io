@@ -3,20 +3,29 @@ permalink: /
 title: "Gayathri Rangu"
 excerpt: "Ph.D. researcher in federated reinforcement learning, robotic intelligence, and embodied AI."
 author_profile: true
+page_theme: research
+background_image: image-alignment-1200x4002.jpg
 redirect_from:
   - /about/
   - /about.html
 ---
 
 <section class="profile-hero">
-  <p class="profile-kicker">Ph.D. Candidate, Computer Science and Engineering, IIT Guwahati</p>
-  <h1>Building collaborative learning systems for networked robots.</h1>
-  <p class="profile-lede">I work on federated reinforcement learning, multi-robot systems, embodied AI, and LLM-assisted robotics. My research focuses on scalable learning frameworks that help distributed robotic systems share experience, adapt across environments, and move from simulation toward real deployment.</p>
-  <div class="profile-actions">
-    <a class="btn btn--primary" href="/cv/">View CV</a>
-    <a class="btn" href="/publications/">Publications</a>
-    <a class="btn" href="/portfolio/">Projects</a>
-    <a class="btn" href="/news/">News</a>
+  <div class="profile-hero__copy">
+    <p class="profile-kicker">Ph.D. Candidate, Computer Science and Engineering, IIT Guwahati</p>
+    <h1>Building collaborative learning systems for networked robots.</h1>
+    <p class="profile-lede">I work on federated reinforcement learning, multi-robot systems, embodied AI, and LLM-assisted robotics. My research focuses on scalable learning frameworks that help distributed robotic systems share experience, adapt across environments, and move from simulation toward real deployment.</p>
+    <div class="profile-actions">
+      <a class="btn btn--primary" href="/cv/">View CV</a>
+      <a class="btn" href="/publications/">Publications</a>
+      <a class="btn" href="/portfolio/">Projects</a>
+      <a class="btn" href="/news/">News</a>
+    </div>
+  </div>
+  <div class="profile-hero__visual" aria-hidden="true">
+    <div class="visual-card visual-card--main">FRL</div>
+    <div class="visual-card">Robotics</div>
+    <div class="visual-card">Skill Discovery</div>
   </div>
 </section>
 
@@ -76,7 +85,7 @@ redirect_from:
     <h2>Gaaya Labs</h2>
     <p>I am building <strong>Gaaya Labs</strong> as an Instagram-first space for AI, robotics, learning experiments, and behind-the-scenes notes from projects I care about.</p>
   </div>
-  <a class="btn" href="https://www.instagram.com/im_gaaya/">Follow on Instagram</a>
+  <a class="btn" href="https://www.instagram.com/gaaya.labs/">Follow on Instagram</a>
 </section>
 
 ## Collaboration

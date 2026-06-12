@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+page_theme: publications
+background_image: paragraph-indent.png
 ---
 
 {% if author.googlescholar %}

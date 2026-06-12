@@ -3,6 +3,8 @@ layout: archive
 title: "Outside Work"
 permalink: /interests/
 author_profile: true
+page_theme: interests
+background_image: image-alignment-580x300.jpg
 ---
 
 <section class="interest-hero">

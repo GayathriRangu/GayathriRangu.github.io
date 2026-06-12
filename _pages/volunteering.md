@@ -3,6 +3,8 @@ layout: archive
 title: "Service and Leadership"
 permalink: /volunteering/
 author_profile: true
+page_theme: service
+background_image: image-alignment-1200x4002.jpg
 ---
 
 ## Academic Service

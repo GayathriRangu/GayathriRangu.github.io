@@ -3,6 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+page_theme: cv
+background_image: paragraph-no-indent.png
 redirect_from:
   - /resume
 ---

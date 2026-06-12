@@ -3,6 +3,11 @@ layout: compress
 ---
 
 {% include base_path %}
+{% if page.background_image contains "://" %}
+  {% capture page_bg_path %}{{ page.background_image }}{% endcapture %}
+{% elsif page.background_image %}
+  {% capture page_bg_path %}{{ page.background_image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+{% endif %}
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
@@ -11,7 +16,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="page-theme--{{ page.page_theme | default: 'default' }}"{% if page_bg_path %} style="--page-bg-image: url('{{ page_bg_path }}');"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
