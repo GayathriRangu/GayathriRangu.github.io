@@ -18,7 +18,7 @@ redirect_from:
 **Ph.D., Computer Science and Engineering**, Indian Institute of Technology Guwahati<br>
 2021-2026 | CGPA: 7.83
 
-**B.Tech**, Jawaharlal Nehru Technological University Hyderabad<br>
+**B.Tech**, Guru Nanak Institute of Technology (JNTU Affiliated), Hyderabad<br>
 2017-2021 | CGPA: 8.58
 
 **Intermediate**, Telangana State Board of Intermediate Education<br>

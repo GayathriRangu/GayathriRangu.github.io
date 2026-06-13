@@ -13,7 +13,7 @@ redirect_from:
 <section class="profile-hero">
   <div class="profile-hero__copy">
     <p class="profile-kicker">Ph.D. Candidate, Computer Science and Engineering, IIT Guwahati</p>
-    <h1>Robots that learn together, adapt better, and share intelligence</h1>
+    <h1>AI for robots that learn together and adapt in the real world</h1>
     <p class="profile-lede">I work on federated reinforcement learning, multi-robot systems, embodied AI, and LLM-assisted robotics. My research focuses on scalable learning frameworks that help distributed robotic systems share experience, discover useful skills, and move from simulation toward real deployment.</p>
     <div class="profile-actions">
       <a class="btn btn--primary" href="/cv/">View CV</a>
@@ -21,11 +21,6 @@ redirect_from:
       <a class="btn" href="/portfolio/">Projects</a>
       <a class="btn" href="/news/">News</a>
     </div>
-  </div>
-  <div class="profile-hero__visual" aria-hidden="true">
-    <div class="visual-card visual-card--main">FRL</div>
-    <div class="visual-card">Selective Aggregation</div>
-    <div class="visual-card">Skill Discovery</div>
   </div>
 </section>
 

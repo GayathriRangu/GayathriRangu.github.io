@@ -9,13 +9,12 @@ background_image: bg-interests-trails-books.jpg
 
 <section class="interest-hero">
   <p class="section-label">Outside Work</p>
-  <h1>Running trails, growing plants, and reading for the joy of it.</h1>
-  <p>Research is a big part of my life, but not the whole of it. Outside work, I enjoy running, obstacle challenges, Himalayan treks, gardening, and non-academic reading.</p>
+  <h1>Running, travelling, plants, and books</h1>
+  <p>Research is a big part of my life, but not the whole of it. Outside work, I enjoy running, obstacle challenges, travel, Himalayan treks, gardening, and non-academic reading.</p>
 </section>
 
 <section class="interest-grid">
   <article>
-    <img class="card-photo" src="/images/showcase/run-event.jpg" alt="Running event photo">
     <span>Running</span>
     <h2>Endurance and obstacle challenges</h2>
     <ul>
@@ -27,7 +26,12 @@ background_image: bg-interests-trails-books.jpg
   </article>
 
   <article>
-    <img class="card-photo" src="/images/showcase/trek-rootbridge.jpg" alt="Nature trail and root bridge">
+    <span>Travel</span>
+    <h2>Exploring new countries and cultures</h2>
+    <p>I love exploring new countries and places. Australia, Spain, and many parts of India are done. Many more to go.</p>
+  </article>
+
+  <article>
     <span>Mountains</span>
     <h2>Sandakphu Himalayan Trek</h2>
     <ul>
@@ -38,14 +42,12 @@ background_image: bg-interests-trails-books.jpg
   </article>
 
   <article>
-    <img class="card-photo" src="/images/showcase/garden-butterfly.jpg" alt="Butterfly in nature">
     <span>Garden</span>
     <h2>Plants and slow attention</h2>
     <p>Gardening is one of my favorite slow hobbies. I enjoy growing and caring for plants, and I like how much patience and attention it teaches.</p>
   </article>
 
   <article>
-    <img class="card-photo" src="/images/showcase/reading-spain.jpg" alt="Reading during travel">
     <span>Books</span>
     <h2>Non-academic reading shelf</h2>
     <p>I am building this as a shelf for books I read for curiosity, perspective, storytelling, and life outside research.</p>
@@ -59,4 +61,4 @@ background_image: bg-interests-trails-books.jpg
   </article>
 </section>
 
-<p class="cv-note">I will keep updating this page with specific race notes, trek memories, plant experiments, and book notes.</p>
+<p class="cv-note">I will keep updating this page with race notes, trek memories, travel stories, plant experiments, and book notes.</p>

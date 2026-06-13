@@ -13,6 +13,8 @@ background_image: bg-ai-robotics-subtle.jpg
 
 {% include base_path %}
 
+Paper links are included where public DOI or publisher links are available.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
